@@ -1,0 +1,143 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.2747402738)
+
+newmtl Пластик синий
+Kd 0 0 255
+illum 1
+
+newmtl МДФ 19мм
+Kd 216 216 216
+illum 1
+
+newmtl Пластик черный
+Kd 255 255 255
+illum 1
+
+newmtl Лист сталь 1мм
+Kd 192 192 192
+illum 1
+
+newmtl Столешница Kronospan K211 PE Порфир Чёрный + пластик 3м 4100х600х38мм м.п.
+illum 1
+map_Kd 17-1_textures\Viyar Стільниця Kronospan K211 PE Порфір Чорний.jpg
+
+newmtl ДСП Kronospan 0101 PE Белый фасадный 2800x2070x18 мм
+Kd 255 255 255
+illum 1
+
+newmtl Пластик
+Kd 0 0 0
+illum 1
+
+newmtl ПРОФИЛЬ GOLA С-ОБРАЗНЫЙ УНИВЕРСАЛЬНЫЙ VOLPATO CLAP`N`FIT L=4200 ЧЕРНЫЙ МАТОВЫЙ (80/G39)
+Kd 0 0 0
+illum 1
+
+newmtl ПРОФИЛЬ GOLA L-ОБРАЗНЫЙ УНИВЕРСАЛЬНЫЙ VOLPATO CLAP`N`FIT L=4200 ЧЕРНЫЙ МАТОВЫЙ (80/G38)
+Kd 0 0 0
+illum 1
+
+newmtl ЛХДФ Белое 0101  Kronospan 3мм
+Kd 252 252 252
+illum 1
+
+newmtl ЛМДФ-MB односторонний 10мм/высокая плотность/EGGER W980 SM Белый Платинум (760 (+/-30) кг/
+Kd 255 255 255
+illum 1
+
+newmtl material_2
+Kd 0 0 0
+illum 1
+
+newmtl Цоколь ПВХ L=3000 H=100 черный мат. Sсilm
+Kd 255 255 255
+illum 1
+
+newmtl NCS S 2000-N (светло сер.)
+Kd 255 255 255
+illum 1
+
+newmtl TANDEMBOX передняя панель, внутренний ящик и внутренняя галерея с поперечным релингом, ШК=1200 мм, под раскрой, для TANDEMBOX intivo/antaro
+illum 1
+map_Kd 17-1_textures\default.bmp
+
+newmtl Пластик белый
+Kd 255 255 255
+illum 1
+
+newmtl Шина L=2000 мм, оцинкованная
+Kd 192 192 192
+illum 1
+
+newmtl Профиль для LED-ленты, ВРЕЗНОЙ, L = 2м, алюминий, анодированное серебро
+Kd 192 192 192
+illum 1
+
+newmtl Лист сталь 3мм
+Kd 192 192 192
+illum 1
+
+newmtl ПРОФИЛЬ GOLA L-ОБРАЗНЫЙ В ВЕРХНИЙ МОДУЛЬ VOLPATO ДЛЯ ДСП 18 ММ L=4200 ЧЕРНЫЙ МАТОВЫЙ (80/G29)
+Kd 0 0 0
+illum 1
+
+newmtl Вырез
+illum 1
+map_Kd 17-1_textures\default.bmp
+
+newmtl Труток 5мм
+Kd 192 192 192
+illum 1
+
+newmtl Пластик серый
+Kd 229 229 229
+illum 1
+
+newmtl Вытяжка
+Kd 192 192 192
+illum 1
+
+newmtl material_1
+Kd 0 0 0
+illum 1
+
+newmtl material_3
+Kd 0 0 0
+illum 1
+
+newmtl material_4
+Kd 0 0 0
+illum 1
+
+newmtl material_5
+Kd 0 0 0
+illum 1
+
+newmtl material_6
+Kd 0 0 0
+illum 1
+
+newmtl Труба профильная 40х20
+Kd 0 0 0
+illum 1
+
+newmtl material_7
+Kd 0 0 0
+illum 1
+
+newmtl material_8
+Kd 0 0 0
+illum 1
+
+newmtl material_9
+Kd 0 0 0
+illum 1
+
+newmtl material_10
+Kd 0 0 0
+illum 1
+
+newmtl material_11
+Kd 0 0 0
+illum 1
+
